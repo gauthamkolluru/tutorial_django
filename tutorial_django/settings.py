@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # custom apps
     'polls',
+    # "polls.apps.PollsConfig",
 ]
 
 MIDDLEWARE = [
